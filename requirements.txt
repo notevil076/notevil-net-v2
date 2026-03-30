@@ -1,0 +1,3 @@
+PyQt6
+PyInstaller
+# В будущем добавим парсер ссылок (validators, base64)
